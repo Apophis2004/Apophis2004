@@ -20,7 +20,7 @@
 
 ## 💎 About Me
 
-I am a **PhD researcher and university educator** working across **artificial intelligence, microfluidics, bioengineering, scientific instrumentation, and computational modeling**.
+I am a **PhD student** working across **artificial intelligence, microfluidics, bioengineering, scientific instrumentation, and computational modeling**.
 
 I am interested in building research systems that connect:
 
