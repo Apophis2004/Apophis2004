@@ -4,7 +4,7 @@
 
 # ✨ Apophis2004
 
-### AI × Microfluidics × Bioengineering × Embodied Systems
+### AI × Microfluidics × Bioengineering × Scientific Systems
 
 <p>
   <img src="https://img.shields.io/badge/AI-Research-58A6FF?style=flat-square" />
@@ -20,15 +20,77 @@
 
 ## 💎 About Me
 
-I am a research-driven builder working at the intersection of **artificial intelligence, microfluidics, bioengineering, and embodied systems**.
+I am a **PhD researcher and university educator** working across **artificial intelligence, microfluidics, bioengineering, scientific instrumentation, and computational modeling**.
 
-My work focuses on connecting:
+I am interested in building research systems that connect:
 
 **perception → decision → actuation → measurement**
 
-into reproducible experimental systems.
+into reproducible experimental workflows.
 
-I am especially interested in turning complex research problems into modular, visual, and controllable systems.
+My current work combines algorithm development with physical experiments, with a particular focus on **closed-loop scientific systems, microfluidic manipulation, in vitro modeling, and intelligent instrumentation**.
+
+---
+
+## 🌟 Featured Research
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🩸 nRBC-DEP-Vision
+**Vision-guided microfluidic cell sorting**
+
+A closed-loop research platform combining microscopy, YOLO-based cell recognition, asymmetric DEP actuation, and pulsed-flow sorting.
+
+<sub>Python · YOLO · OpenCV · COMSOL · Microfluidics</sub><br/>
+<sub>🔒 Private research project</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 Integrated GI Modeling
+**Digestion–absorption coupled in vitro systems**
+
+A review and engineering framework for dynamic gastrointestinal models, barrier interfaces, online sensing, validation, and translational use.
+
+<sub>GI modeling · TEER · O₂ · Δp · Organ-on-chip</sub><br/>
+<sub>🔒 Private research project</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌈 RPI-MBIL
+**Physics-informed inverse design for interference lithography**
+
+A computational framework linking reciprocal-space reasoning, forward simulation, Fourier descriptors, robust optimization, and multi-beam interference design.
+
+<sub>Python · Optimization · Fourier analysis · Physics modeling</sub><br/>
+<sub>🔒 Private research project</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 AFM-Microfluidic-AI-Phenotyping
+**Multimodal single-cell phenotyping**
+
+An experimental framework combining inertial microfluidics, microscopy, AFM nanomechanics, and small-model AI for post-sorting phenotypic analysis.
+
+<sub>AFM · Microfluidics · Imaging · Multimodal AI</sub><br/>
+<sub>🔒 Private research project</sub>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -102,18 +164,31 @@ I am especially interested in turning complex research problems into modular, vi
 
 ---
 
-## ✨ Technical Elements
+## 🧰 Technical Toolkit
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=A98BFF" />
+<img src="https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge&logoColor=7BD389" />
+<img src="https://img.shields.io/badge/COMSOL-0D1117?style=for-the-badge&logoColor=5ED3C6" />
+<img src="https://img.shields.io/badge/Microfluidics-0D1117?style=for-the-badge&logoColor=5ED3C6" />
+<img src="https://img.shields.io/badge/AFM-0D1117?style=for-the-badge&logoColor=9BE7E8" />
+<img src="https://img.shields.io/badge/CAD-0D1117?style=for-the-badge&logoColor=FFB38A" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=7BD389" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF8C69" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=F0F6FC" />
 
 </div>
+
+---
+
+## 🌙 Currently Working On
+
+- **Vision-triggered microfluidic cell sorting** — camera detection → target recognition → actuation → sorting readout
+- **Digestion–absorption coupled in vitro modeling** — engineering interfaces, sensing, validation, and translational evidence
+- **Physics-informed inverse design** — reciprocal-space reasoning and robust optimization for multi-beam interference lithography
+- **Multimodal experimental automation** — integrating vision, sensing, control, and physical experimentation
 
 ---
 
@@ -122,12 +197,6 @@ I am especially interested in turning complex research problems into modular, vi
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apophis2004&theme=github_dark" alt="profile details"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Apophis2004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9BE7E8&icon_color=7BD389&text_color=C9D1D9&ring_color=58A6FF&rank_icon=github" alt="GitHub stats"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Apophis2004&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=9BE7E8&fire=58A6FF&currStreakLabel=9BE7E8" alt="GitHub streak"/>
 
 <br/>
 
@@ -148,17 +217,6 @@ I am especially interested in turning complex research problems into modular, vi
 </picture>
 
 </div>
-
----
-
-## 🌙 Current Focus
-
-- Vision-guided microfluidic cell sorting
-- Closed-loop experimental systems
-- Gastrointestinal in vitro modeling
-- Microfluidic online sensing
-- Embodied AI and robotics
-- Research workflow visualization
 
 ---
 
