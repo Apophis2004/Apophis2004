@@ -1,79 +1,123 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,55:161B22,100:238636&text=Apophis2004&fontColor=F0F6FC&fontSize=44&fontAlignY=36&desc=AI%20%C3%97%20Microfluidics%20%C3%97%20Bioengineering%20%C3%97%20Embodied%20Systems&descAlignY=58&descSize=16&animation=fadeIn" alt="header"/>
+<img width="100%" src="./banner.png" alt="Apophis2004 Banner"/>
 
-### Research-driven builder working at the intersection of intelligent systems and experimental engineering.
+# ✨ Apophis2004
+
+### AI × Microfluidics × Bioengineering × Embodied Systems
 
 <p>
-  <img src="https://img.shields.io/badge/AI-Research-2F81F7?style=flat-square&logo=openai&logoColor=white" alt="AI Research"/>
-  <img src="https://img.shields.io/badge/Microfluidics-Bioengineering-238636?style=flat-square" alt="Microfluidics"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Closed--loop%20Control-8957E5?style=flat-square" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Embodied%20AI-Robotics-F78166?style=flat-square" alt="Embodied AI"/>
+  <img src="https://img.shields.io/badge/AI-Research-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microfluidics-Crystal%20Flow-5ED3C6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bioengineering-Living%20Systems-7BD389?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Closed--loop%20Control-A98BFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embodied%20AI-Robotics-FFB38A?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-## 🧭 Research map
+## 💎 About Me
+
+I am a research-driven builder working at the intersection of **artificial intelligence, microfluidics, bioengineering, and embodied systems**.
+
+My work focuses on connecting:
+
+**perception → decision → actuation → measurement**
+
+into reproducible experimental systems.
+
+I am especially interested in turning complex research problems into modular, visual, and controllable systems.
+
+---
+
+## 🔷 Research Facets
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🧬 Bioengineering & Microfluidics
-- Microfluidic cell analysis and sorting
-- Vision-guided closed-loop actuation
-- Experimental system integration
-- Sensor-driven platform design
+### 🌊 Crystal Flow
+**Microfluidics & Cell Sorting**
+
+- Microfluidic chip design
+- Cell manipulation and sorting
+- DEP-based actuation
+- Pulsed-flow sorting
+- Experimental platform integration
+- Closed-loop microfluidic control
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🧠 AI & Intelligent Systems
-- Computer vision for scientific experiments
-- Multimodal sensing and decision loops
-- Edge AI and Raspberry Pi systems
-- Research tooling and reproducible workflows
+### 👁️ Optical Perception
+**AI & Computer Vision**
+
+- Scientific computer vision
+- Cell detection and recognition
+- Vision-guided triggering
+- Closed-loop experiment control
+- Edge AI deployment
+- Experimental image analysis
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🧪 In vitro Modeling
-- Gastrointestinal in vitro platforms
+### 🧪 Living Interfaces
+**In Vitro Modeling**
+
+- Gastrointestinal in vitro modeling
 - Digestion–absorption coupling
-- Online sensing and physiological readouts
-- Validation and translational thinking
+- Microfluidic sensing
+- TEER / O₂ / pressure readouts
+- Gut–microbiome interaction
+- Translational validation
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🤖 Embodied Systems
-- Multimodal desktop robotics
+### 🤖 Embodied Motion
+**Robotics & Intelligent Systems**
+
+- Multimodal embodied AI
 - Vision + audio + motion integration
-- Human–robot interaction prototypes
+- Raspberry Pi robotics
+- Human–robot interaction
 - Lightweight experimental automation
+- Intelligent desktop systems
 
 </td>
+
 </tr>
 </table>
 
-## 🧰 Tools & platforms
+---
+
+## ✨ Technical Elements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846" alt="Raspberry Pi"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=A98BFF" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=7BD389" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF8C69" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=F0F6FC" />
 
 </div>
 
-## 📊 GitHub dashboard
+---
+
+## 🌌 Research Constellation
 
 <div align="center">
 
@@ -81,16 +125,19 @@
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Apophis2004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&ring_color=238636&rank_icon=github" alt="GitHub stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Apophis2004&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=238636&fire=F78166&currStreakLabel=58A6FF" alt="GitHub streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Apophis2004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9BE7E8&icon_color=7BD389&text_color=C9D1D9&ring_color=58A6FF&rank_icon=github" alt="GitHub stats"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Apophis2004&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=9BE7E8&fire=58A6FF&currStreakLabel=9BE7E8" alt="GitHub streak"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Apophis2004&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=3FB950&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Apophis2004&bg_color=0D1117&color=C9D1D9&line=5ED3C6&point=9BE7E8&area=true&hide_border=true&custom_title=Contribution%20Constellation" alt="activity graph"/>
 
 </div>
 
-## 🐍 Contribution flow
+---
+
+## 🐍 Contribution Flow
 
 <div align="center">
 
@@ -104,9 +151,29 @@
 
 ---
 
+## 🌙 Current Focus
+
+- Vision-guided microfluidic cell sorting
+- Closed-loop experimental systems
+- Gastrointestinal in vitro modeling
+- Microfluidic online sensing
+- Embodied AI and robotics
+- Research workflow visualization
+
+---
+
+## 💠 Philosophy
+
 <div align="center">
-  <sub>Building research systems that connect <b>perception → decision → actuation → measurement</b>.</sub>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Apophis2004&style=flat-square&color=238636&label=Profile+views" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Apophis2004?style=flat-square&logo=github&label=Followers&color=2F81F7" alt="followers"/>
+
+> **Structure gives form.  
+> Measurement gives meaning.  
+> Intelligence connects them.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Apophis2004&style=flat-square&color=5ED3C6&label=Profile+Views" />
+
+<img src="https://img.shields.io/github/followers/Apophis2004?style=flat-square&logo=github&label=Followers&color=58A6FF" />
+
 </div>
