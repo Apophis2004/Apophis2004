@@ -203,35 +203,3 @@ An experimental framework combining inertial microfluidics, microscopy, AFM nano
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Apophis2004&bg_color=0D1117&color=C9D1D9&line=5ED3C6&point=9BE7E8&area=true&hide_border=true&custom_title=Contribution%20Constellation" alt="activity graph"/>
 
 </div>
-
----
-
-## 🐍 Contribution Flow
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Apophis2004/Apophis2004/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Apophis2004/Apophis2004/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Apophis2004/Apophis2004/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 💠 Philosophy
-
-<div align="center">
-
-> **Structure gives form.  
-> Measurement gives meaning.  
-> Intelligence connects them.**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Apophis2004&style=flat-square&color=5ED3C6&label=Profile+Views" />
-
-<img src="https://img.shields.io/github/followers/Apophis2004?style=flat-square&logo=github&label=Followers&color=58A6FF" />
-
-</div>
